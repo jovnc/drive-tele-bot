@@ -1,0 +1,6 @@
+.env
+/.venv
+.gcloudignore
+/__pycache__
+/commands/__pycache__
+the-exam-specialist-fbd608eb033b.json
